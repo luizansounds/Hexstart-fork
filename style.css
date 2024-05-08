@@ -56,10 +56,10 @@ body {
 .grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(1, 1fr);
+  grid-template-rows: repeat(2, 1fr);
   grid-gap: 20px;
   width: 500px;
-  height: 150px;
+  height: 150px;1
   padding: 20px;
   box-sizing: border-box;
   /* align in center of screen */
