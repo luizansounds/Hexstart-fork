@@ -59,7 +59,7 @@ body {
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 20px;
   width: 500px;
-  height: 150px;1
+  height: 150px;
   padding: 20px;
   box-sizing: border-box;
   /* align in center of screen */
